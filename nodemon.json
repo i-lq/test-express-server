@@ -1,0 +1,4 @@
+{
+    "ext": "js,mjs,cjs,json,hbs,html,astro,css,md",
+    "ignore": []
+}
